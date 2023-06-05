@@ -1,0 +1,5 @@
+=>  Authenticate valid user (token and secret key)
+=>  Verify body request 
+=>  logic to fetch pan 
+=>  logic to fetch ckyc
+contiue....
