@@ -1,13 +1,5 @@
 const authController = {
     isAuthenticate: (req, res, next) => {
-        //CHECKLIST
-        //[] validate the request
-        //[] Authorise the request
-        //[] check if user is in the database already 
-        //[] prepare model
-        //[] store in database
-        //[] generate jwt token
-        //[] send response
 
         //1. validation the request 
         const token = req.headers.token;
